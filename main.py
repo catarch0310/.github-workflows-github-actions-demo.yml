@@ -7,7 +7,7 @@ import importlib
 SCRAPER_SITES = [
     'racing_post',
     'scmp_racing',
-    'at_the_races',
+    'on_cc_racing',
     # 之後新增網站只要在這裡加名字即可
 ]
 
