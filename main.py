@@ -6,7 +6,7 @@ import importlib
 # 這裡列出所有 scrapers 資料夾下的模組名
 SCRAPER_SITES = [
     'racing_post',
-    'sporting_life',
+    'scmp_racing',
     'at_the_races',
     # 之後新增網站只要在這裡加名字即可
 ]
